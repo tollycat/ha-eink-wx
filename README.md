@@ -7,3 +7,6 @@ Dependencies: weather underground pws plugin; Wundergroundpws
   National Weather Service (NWS): national weather service for USA for forcast data
   NWS Alerts: for pulling National Weather Service Alert/Watches/Warnings.
   Ecowitt Official Integration (Optional): for Ecowitt weather stations or use your own PWS integration. If your PWS is fead into WUnderground, you can just use that.
+  Puppet: for generating png file of the created dashboard. 
+
+  <img src=eink_display_example.png>
